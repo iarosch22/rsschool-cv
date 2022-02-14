@@ -1,28 +1,30 @@
 # VITALIY YARASH 
 
-## Contacts: 
+## Junior Frontend Developer
+
+### Contacts: 
 
 * Telegram [https://t.me/iarosch] (https://t.me/iarosch) 
 * Email [iarosch@protonmail.com] (iarosch@protonmail.com) 
 
-## Skills: 
+### Skills: 
 
 *HTML, CSS and JavaScript* 
 
-## Code example: 
+### Code example: 
 
 *At the end of the course there will be something here.*
 
-## Languages
+### Languages
 
 * Russian
 * English(A2+)
 * Polish
 
-## Education
+### Education
 
 * Bachelor, Yanka Kupala State University of Grodno - Slavic philology
 
-## About myself:
+### About myself:
 
 * Determined to become a front-end developer.*
