@@ -9,7 +9,11 @@
 
 ### Skills: 
 
-*HTML, CSS and JavaScript* 
+* HTML 
+* CSS 
+* JavaScript
+* VS Code
+* Github
 
 ### Code example: 
 
