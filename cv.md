@@ -31,4 +31,4 @@
 
 ### About myself:
 
-* Determined to become a front-end developer.*
+* The field of information technology has always been of interest to me. Front end development attracts me because I can see the result of my work right away. I also like the concept of the web. In the end, I should be closer to the area that will give us digital immortality :)*
